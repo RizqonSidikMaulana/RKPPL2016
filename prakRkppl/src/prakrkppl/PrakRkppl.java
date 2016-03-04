@@ -16,7 +16,7 @@ public class PrakRkppl {
      */
     public static void main(String[] args) {
         System.out.println("bababa");
-        System.out.println("kakak");
+        
         
     }
     
