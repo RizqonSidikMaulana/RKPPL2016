@@ -15,7 +15,7 @@ public class PrakRkppl {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("damang?");
+        System.out.println("Assalamu'alaikum");
     }
     
 }
